@@ -27,7 +27,7 @@ Com um ambiente virtual:
 
 ```bash
 python -m venv .venv
-.venv\\Scripts\\Activate.ps1
+.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 python -m streamlit run app.py
 ```
