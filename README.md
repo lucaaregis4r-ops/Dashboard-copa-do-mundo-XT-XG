@@ -8,6 +8,12 @@ Dashboard local em Streamlit para analisar as Copas do Mundo de 2018 e 2022 com 
 
 O app ajuda a analisar território, sequências, criação de chances, desempenho de equipes e jogadores e a confiabilidade de cada recorte. Os métodos estatísticos complementam a leitura do jogo.
 
+## Visão do dashboard
+
+![Dashboard de análise das ações nas Copas do Mundo de 2018 e 2022](docs/screenshots/analise-das-acoes-no-futebol.png)
+
+Captura da interface do projeto, com dados abertos do StatsBomb.
+
 ## Executar
 
 ```bash
